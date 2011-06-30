@@ -20,7 +20,7 @@ ROOT_SOURCE_PATH  = $(REPO_ROOT_PATH)/src
 //OBJROOT = $(REPO_ROOT_PATH)/Build
 //SYMROOT = $(OBJROOT)/Products
 
-OBJROOT = $(REPO_ROOT_PATH)/../../../Build
+OBJROOT = /Volumes/ramdisk
 SYMROOT = $(OBJROOT)
 
 // Search Paths
